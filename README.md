@@ -9,3 +9,9 @@ This is a [GitBook](https://www.gitbook.io) version of the ['97 Things Every Pro
 [Table of Contents](en/SUMMARY.md)
 
 All content is licensed under the [Creative Commons Attribution Non Commercial Share Alike 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/). Print versions of the book are available on [Amazon.com](http://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484).
+
+# Generate eBook
+
+If [pandoc](https://pandoc.org) is installed in your system, you can generate an eBook in ePub format by cloning this repo and executing the following bash script:
+
+    $ ./generate_epub.bash

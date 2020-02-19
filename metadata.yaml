@@ -1,0 +1,14 @@
+---
+title:
+- type: main
+  text: 97 things every programmer should know
+- type: subtitle
+  text: Collective Wisdom from the Experts
+creator:
+- role: editor
+  text: Kevlin Henney
+contributor:
+- role: programmer
+  text: Alessandro Chimetto
+rights: CC BY-NC-SA 3.0
+...
